@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="images/stable.png" width="300px" />
+  <img src="images/stable.png" width="400px" />
   <!-- <p>results1.</p> -->
 </div>
 
