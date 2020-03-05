@@ -6,8 +6,7 @@
 </div>
 
 ## Features of CDARTS
-- :star2: We achieved the best or comparable performance on CIFAR10(97.60%), CIFAR100(84.31%) and ImageNet (76.6%) under the DARTS searching space!
-- :star2: Our big model achieved impressive performance on CIFAR10(98.32%), CIFAR100(87.01%) and ImageNet (81.1%)!
+- :star2: We achieved the best or comparable performance on CIFAR10(97.52%), CIFAR100(84.31%) and ImageNet (76.6%) under the DARTS searching space!
 - :star2: We provided all information (training and test code, documentation) needed to exactly reproduce the results.
 - :star2: Our code support distributed training.
 
